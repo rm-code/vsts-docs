@@ -7,7 +7,8 @@ ms.prod: devops
 ms.technology: devops-analytics
 ms.assetid: EFAD32DB-8B19-4ACC-8F72-87CC5A513798  
 ms.manager: douge
-ms.author: kaelliauthor: KathrynEE
+ms.author: kaelli
+author: KathrynEE
 ms.topic: conceptual
 ms.date: 03/20/2018
 ---
@@ -21,7 +22,7 @@ You can quickly view the status of work in progress by charting the results of a
 >[!NOTE]  
 >For examples of queries based on numeric fields, see [Query by numeric fields](../../boards/queries/query-numeric.md). For information on creating charts that track test progress and results, see [Track test status](../../test/track-test-status.md).  
 
-For example, the following image illustrates four different charts created from the same flat-list query. The pie chart groups the 146 active bugs by priority, and the bar chart groups the bugs by team and their triage status. The last two chart show two different trend views of the active bugs over the last two weeks.  
+For example, the following image illustrates four different charts created from the same flat-list query. The pie chart groups the 146 active bugs by priority, and the bar chart groups the bugs by team and their triage status. The last two charts show two different trend views of the active bugs over the last two weeks.  
 
 ![A view of 4 charts for a flat-list query](_img/charts-active-bugs.png)
 
